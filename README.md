@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p data-importer="text" align="left">💻 Software Developer | 🤖 AI/ML Enthusiast | 🚀 Problem Solver<br><br>I'm an Information Science and Engineering student passionate about building practical software solutions and exploring the world of Artificial Intelligence, Full-Stack Development, and Backend Engineering.<br><br>I enjoy turning ideas into applications, solving programming problems, and continuously learning new technologies to become a better software engineer.<br></br><br>🎓 Information Science & Engineering Student<br>💻 Passionate about Software Development & Problem Solving<br>🤖 Exploring AI/ML & Generative AI<br>🌐 Interested in Full-Stack & Backend Development<br>🧠 Strengthening my Java, DSA, OOP & SQL skills<br>🔨 Building practical academic and personal projects<br>📚 Always learning, experimenting, and improving</p>
+<p data-importer="text" align="left">💻 Software Developer | 🤖 AI/ML Enthusiast | 🚀 Problem Solver<br><br>I'm an Information Science and Engineering student passionate about building practical software solutions and exploring the world of Artificial Intelligence, Full-Stack Development, and Backend Engineering.<br><br>I enjoy turning ideas into applications, solving programming problems, and continuously learning new technologies to become a better software engineer.<br></br><br>🎓 Information Science & Engineering Student<br>💻 Passionate about Software Development & Problem Solving<br>🤖 Exploring AI/ML & Generative AI<br>🌐 Interested in Full-Stack & Backend Development<br>🧠 Strengthening my Java, DSA, OOP & SQL skills<br>
 
 ###
 
